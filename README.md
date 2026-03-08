@@ -1,7 +1,7 @@
 ## Hi, I'm Cyril Anand C A V 👋
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Passionate%20towards%20Data Science%20Engineer%20%2C%20CAI%20Enthusiast%2C%20Developer%20-%20lightblue?style=for-the-badge&color=lightblue" width="2500" height="45"/>
+    <img src="https://img.shields.io/badge/Passionate%20towards%20Data Science%20%2C%20AI%20Enthusiast%2C%20Developer%20-%20lightblue?style=for-the-badge&color=lightblue" width="2500" height="45"/>
 </p>
 
 
